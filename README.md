@@ -1,5 +1,6 @@
 # NEL-JKO
 NEL AND JKO Codes for CIM Completion
+Press Ctrl+Shift+J and input the codes below
 
 # NEL
 
