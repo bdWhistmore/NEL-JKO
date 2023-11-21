@@ -49,6 +49,8 @@ Userscripts are JavaScript snippets that can modify web pages. Tools like Tamper
 Injecting via Debugging Tools:  
 
 Some advanced debugging tools and techniques can inject code into a page. This requires a deep understanding of browsers and web security.  
+
+Signed: Jay Banks
 Using Web-Based IDEs:  
 
 Some web-based integrated development environments (IDEs) can inject code into web pages for testing purposes.  
