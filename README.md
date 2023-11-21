@@ -15,7 +15,7 @@ API_1484_11.SetValue('cmi.completion_status','completed');
 
 API_1484_11.SetValue('cmi.completion_status','completed');if (document.getElementsByName("courseheader").item(0).contentDocument.getElementById("c")){document.getElementsByName("courseheader").item(0).contentDocument.getElementById("c").submit()};
 
-#Injecting Code  
+# Injecting Code  
 
 Injecting JavaScript code into a running browser tab can be done in a few different ways.  
 
